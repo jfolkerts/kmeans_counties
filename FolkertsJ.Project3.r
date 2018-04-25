@@ -77,3 +77,5 @@ new_longitude <-
   sum(clust_of_interest$longitude * clust_of_interest$population) / total_pop
 centers[1, 1] <- new_latitude
 centers[1, 2] <- new_longitude
+
+#making a change
